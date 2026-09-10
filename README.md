@@ -114,15 +114,6 @@ contexts. Two million scenarios demonstrate a processing workload, not two
 million independent real observations.
 
 
-## GitHub upload
-
-Create an empty GitHub repository and upload **the contents of this folder**, not
-the outer ZIP. Keep the directory structure. All bundled files are below 25 MB.
-Do not upload `artifacts/`, credentials or the generated two-million-row tables.
-
-This is a clean submission snapshot. It does not recreate trimester-long commit
-history. Preserve genuine earlier history separately if it exists; do not backdate
-commits or invent contributions to satisfy that rubric item.
 
 ## Limitations and recommended next step
 
