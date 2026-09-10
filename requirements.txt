@@ -1,0 +1,3 @@
+# Databricks supplies Spark/MLlib; do not pip-install a conflicting PySpark.
+numpy>=1.24,<3
+# Optional model logging uses the Databricks-provided mlflow package.

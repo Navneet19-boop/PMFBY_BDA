@@ -1,0 +1,8 @@
+{
+  "catalog": "workspace",
+  "schema": "default",
+  "simulation_version": "2.2.0",
+  "seed": 20260907,
+  "synthetic_rows": 2000000,
+  "log_models_to_mlflow": false
+}

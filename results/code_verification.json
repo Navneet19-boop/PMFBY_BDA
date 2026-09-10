@@ -1,0 +1,26 @@
+{
+  "01_run_pipeline.ipynb": {
+    "executed_file_sha256": "274693a755a67ab60200b280fa5775578f591811d76d32d0e29dea4c3fa45acf",
+    "final_file_sha256": "b988592e14bf56fbe8ca6cd6422a933c37178b24a5e47d63e8134df5eace4b7b",
+    "code_cells_ast_identical_to_tested_source_with_declared_import_fix": true,
+    "runtime_complete": true,
+    "code_cell_count": 6,
+    "bootstrap_import_re_added": false
+  },
+  "02_evaluate_run.ipynb": {
+    "executed_file_sha256": "01bf4ff1da5fc1ce188285909e6584f3d1c75490c1bc2c57e622881099714c77",
+    "final_file_sha256": "d141efcbeab8e9a666d2b4e66fc765cd2a26f2e0d48ff4ae953b2fc749f80588",
+    "code_cells_ast_identical_to_tested_source_with_declared_import_fix": true,
+    "runtime_complete": true,
+    "code_cell_count": 2,
+    "bootstrap_import_re_added": false
+  },
+  "03_rebuild_source_features.ipynb": {
+    "executed_file_sha256": "874e6baa995876d1527eac36cba840bdd3b2bc7c0a3b8a6f2b03523ffd539611",
+    "final_file_sha256": "64851339a4f45a6d0caa34c24521a696401e5137f04defa474af89a6faa41c23",
+    "code_cells_ast_identical_to_tested_source_with_declared_import_fix": true,
+    "runtime_complete": false,
+    "code_cell_count": 2,
+    "bootstrap_import_re_added": true
+  }
+}

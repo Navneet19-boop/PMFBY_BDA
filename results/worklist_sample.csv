@@ -1,0 +1,6 @@
+﻿policy,priority_rank,synthetic_claim_id,state,district_censuscode,season,score,rainfall_anomaly_pct,ndvi_anomaly,max_daily_mean_temperature_c,review_route,year,evidence_tier,imputed_feature_count,weather_valid_day_share,human_decision_required
+random_forest,1,0112b84423ad4521f2064abb21d77b3f1e18ba402af4de10f95c4f450a2ebc93,Odisha,374,RABI,0.43959319570201666,-56.91117595168622,-0.01907791865028141,35.74,priority_verification,2022,observed_complete,0,1.0,True
+random_forest,2,0215673a08ed34ce21649a9b9f751a5801f8da06149f7fb12ef27db24a4ec2ae,Odisha,374,RABI,0.43959319570201666,-56.91117595168622,-0.01907791865028141,35.74,priority_verification,2022,observed_complete,0,1.0,True
+weather_vegetation_rule,2,004e76a3f82f5a3011f9f5dc4fb4bcc9f7a405e4e7bff04ea1ba58c99cd3db80,Uttar Pradesh,196,KHARIF,3.0,-25.007376807317794,-0.061769801761402676,40.08,priority_verification,2022,observed_complete,0,1.0,True
+weather_vegetation_rule,73318,e9f4c8695cee08bd3c0fa3dff55aa12d9ce1d21551752c1435da04fc9ae41cea,Uttar Pradesh,133,RABI,2.0,-14.00088162490254,-0.007790124410937405,31.67,priority_verification,2022,observed_complete,0,1.0,True
+weather_vegetation_rule,73319,e9f55a4cc699e3b6ed6633c6f42838af6a7bf290453295d4dabffdd40631e369,Madhya Pradesh,425,RABI,2.0,-18.536915782343634,0.036695968504012966,34.25,standard_review,2022,observed_complete,0,1.0,True
